@@ -14,6 +14,7 @@ User story:
 -	User is able to make a graph from their sleep time and send it to their email
 
 
+Possible extra info 
 - User is able to enter the time and duration of any naps they took that day
 - User is able to enter any medications they took to sleep (name and time)
 - User is able to enter the time they got into bed, the time they fell asleep, how many times they woke up, how long they slept, and what time they woke up
